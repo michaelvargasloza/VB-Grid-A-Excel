@@ -1,0 +1,20 @@
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\Grid A Excel\bin\Debug\Grid A Excel.exe.config
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\Grid A Excel\bin\Debug\Grid A Excel.exe
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\Grid A Excel\bin\Debug\Grid A Excel.pdb
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\Grid A Excel\bin\Debug\Grid A Excel.xml
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\Grid A Excel\obj\Debug\Grid_A_Excel.frmInicio.resources
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\Grid A Excel\obj\Debug\Grid_A_Excel.Resources.resources
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\Grid A Excel\obj\Debug\Grid A Excel.vbproj.GenerateResource.Cache
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\Grid A Excel\obj\Debug\Grid A Excel.exe
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\Grid A Excel\obj\Debug\Grid A Excel.xml
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\Grid A Excel\obj\Debug\Grid A Excel.pdb
+C:\Users\Michael Vargas Loza\Desktop\VB\Grid A Excel\Grid A Excel\bin\Debug\Grid A Excel.exe.config
+C:\Users\Michael Vargas Loza\Desktop\VB\Grid A Excel\Grid A Excel\obj\Debug\Grid A Excel.exe
+C:\Users\Michael Vargas Loza\Desktop\VB\Grid A Excel\Grid A Excel\obj\Debug\Grid A Excel.xml
+C:\Users\Michael Vargas Loza\Desktop\VB\Grid A Excel\Grid A Excel\obj\Debug\Grid A Excel.pdb
+C:\Users\Michael Vargas Loza\Desktop\VB\Grid A Excel\Grid A Excel\bin\Debug\Grid A Excel.exe
+C:\Users\Michael Vargas Loza\Desktop\VB\Grid A Excel\Grid A Excel\bin\Debug\Grid A Excel.pdb
+C:\Users\Michael Vargas Loza\Desktop\VB\Grid A Excel\Grid A Excel\bin\Debug\Grid A Excel.xml
+C:\Users\Michael Vargas Loza\Desktop\VB\Grid A Excel\Grid A Excel\obj\Debug\Grid_A_Excel.frmInicio.resources
+C:\Users\Michael Vargas Loza\Desktop\VB\Grid A Excel\Grid A Excel\obj\Debug\Grid_A_Excel.Resources.resources
+C:\Users\Michael Vargas Loza\Desktop\VB\Grid A Excel\Grid A Excel\obj\Debug\Grid A Excel.vbproj.GenerateResource.Cache
